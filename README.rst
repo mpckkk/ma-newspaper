@@ -24,7 +24,7 @@ Inspired by `requests`_ for its simplicity and powered by `lxml`_ for its speed:
 .. _`tweeted by`: https://twitter.com/kennethreitz/status/419520678862548992
 .. _`The Changelog`: http://thechangelog.com/newspaper-delivers-instapaper-style-article-extraction/
 
-**Newspaper is a Python3 library**! Or, view our **deprecated and buggy** `Python2 branch`_
+
 
 .. _`Python2 branch`: https://github.com/codelucas/newspaper/tree/python-2-head
 
