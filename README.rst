@@ -150,9 +150,6 @@ If you are certain that an *entire* news source is in one language, **go ahead a
     两年双免0手续0利率 科鲁兹掀背金融轻松购_武汉车市_武汉汽
     车网_新浪汽车_新浪网
 
-Support our library
--------------------
-`It takes only one click`_
 
 Docs
 ----
