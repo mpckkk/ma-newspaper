@@ -1,19 +1,6 @@
 Newspaper3k: Article scraping & curation
 ========================================
 
-.. image:: https://badge.fury.io/py/newspaper3k.svg
-    :target: http://badge.fury.io/py/newspaper3k.svg
-        :alt: Latest version
-
-.. image:: https://travis-ci.org/codelucas/newspaper.svg
-        :target: http://travis-ci.org/codelucas/newspaper/
-        :alt: Build status
-
-.. image:: https://coveralls.io/repos/github/codelucas/newspaper/badge.svg?branch=master
-        :target: https://coveralls.io/github/codelucas/newspaper
-        :alt: Coverage status
-
-
 Inspired by `requests`_ for its simplicity and powered by `lxml`_ for its speed:
 
     "Newspaper is an amazing python library for extracting & curating articles."
