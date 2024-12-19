@@ -156,22 +156,6 @@ Docs
 
 Check out `The Docs`_ for full and detailed guides using newspaper.
 
-Interested in adding a new language for us? Refer to: `Docs - Adding new languages <https://newspaper.readthedocs.io/en/latest/user_guide/advanced.html#adding-new-languages>`_
-
-Features
---------
-
-- Multi-threaded article download framework
-- News url identification
-- Text extraction from html
-- Top image extraction from html
-- All image extraction from html
-- Keyword extraction from text
-- Summary extraction from text
-- Author extraction from text
-- Google trending terms extraction
-- Works in 10+ languages (English, Chinese, German, Arabic, ...)
-
 .. code-block:: pycon
 
     >>> import newspaper
@@ -285,38 +269,6 @@ NOTE: You will still most likely need to install the following libraries via you
     $ pip3 install newspaper3k
 
     $ curl https://raw.githubusercontent.com/codelucas/newspaper/master/download_corpora.py | python3
-
-Donations
----------
-
-Your donations are greatly appreciated! They will free me up to work on this project more,
-to take on things like: adding new features, bug-fix support, addressing concerns with the library.
-
-- My PayPal link: `https://www.paypal.me/codelucas`_
-- My `Venmo`_ handle: @Lucas-Ou-Yang
-
-Development
------------
-
-If you'd like to contribute and hack on the newspaper project, feel free to clone
-a development version of this repository locally::
-
-    git clone git://github.com/codelucas/newspaper.git
-
-Once you have a copy of the source, you can embed it in your Python package,
-or install it into your site-packages easily::
-
-    $ pip3 install -r requirements.txt
-    $ python3 setup.py install
-
-Feel free to give our testing suite a shot, everything is mocked!::
-
-    $ python3 tests/unit_tests.py
-
-Planning on tweaking our full-text algorithm? Add the ``fulltext`` parameter::
-
-    $ python3 tests/unit_tests.py fulltext
-
 
 Demo
 ----
