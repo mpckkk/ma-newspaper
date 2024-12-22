@@ -1,4 +1,5 @@
-** Newspaper3k: Article scraping & curation **
+Newspaper3k: Article scraping & curation
+========================================
 
 
 A Glance:
